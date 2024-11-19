@@ -13,9 +13,9 @@
 
 ## 🚀 Projects
 
-- **grocery-shop(github.com/venus0417/grocery-shop)**: Groceries-List enables simple and efficient management of your shopping entries. 💡
-- **hashmap.c(github.com/venus0417/hashmap.c)**: It implement using C and its pretty darn goood performance! 🌟
-- **react-async-decorator(github.com/venus0417/react-async-decorator)**: New way to organize your asynchronous flow in react applications! ✨
+- **grocery-shop(https://github.com/venus0417/grocery-shop)**: Groceries-List enables simple and efficient management of your shopping entries. 💡
+- **hashmap.c(https://github.com/venus0417/hashmap.c)**: It implement using C and its pretty darn goood performance! 🌟
+- **react-async-decorator(https://github.com/venus0417/react-async-decorator)**: New way to organize your asynchronous flow in react applications! ✨
 
 ## 🌱 Currently Learning
 
