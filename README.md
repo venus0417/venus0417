@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there!
 
 ✨ **Full Stack JavaScript Developer** with a passion for creating dynamic web applications! Let's build something awesome together!
 
