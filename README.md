@@ -2,14 +2,25 @@
 
 ✨ **Full Stack JavaScript Developer** with a passion for creating dynamic web applications! Let's build something awesome together!
 
-## 🛠️ Skills
+
+### 🌟 I'm [Your Name]  
+A **Full Stack JavaScript Developer** who loves turning ideas into reality through code. 
+
+---
+
+## 🛠️ Tech Stack
 
 - **Front-End:**  
-  🌐 HTML5 | 🎨 CSS3 | ⚛️ React | 🔄 Vue.js | 📱 Responsive Design
+  - HTML5 🌐 | CSS3 🎨 | JavaScript ES6+ ⚡
+  - Frameworks: React ⚛️ | Vue.js 🔥 | Angular 🌈
+
 - **Back-End:**  
-  🖥️ Node.js | 🗄️ Express.js | 🛠️ MongoDB | 📊 PostgreSQL
-- **DevOps:**  
-  🔧 Git | 🚀 Docker | 🔄 CI/CD
+  - Node.js 🖥️ | Express.js 🚀 | Databases: MongoDB 🗄️ | PostgreSQL 📊
+
+- **Tools:**  
+  - GitHub 🐙 | Docker 🐳 | CI/CD 🔧 | Testing: Jest ✅
+
+---
 
 ## 🚀 Projects
 
