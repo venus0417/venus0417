@@ -2,12 +2,6 @@
 
 ✨ **Full Stack JavaScript Developer** with a passion for creating dynamic web applications! Let's build something awesome together!
 
-
-### 🌟 I'm [Your Name]  
-A **Full Stack JavaScript Developer** who loves turning ideas into reality through code. 
-
----
-
 ## 🛠️ Tech Stack
 
 - **Front-End:**  
@@ -19,8 +13,6 @@ A **Full Stack JavaScript Developer** who loves turning ideas into reality throu
 
 - **Tools:**  
   - GitHub 🐙 | Docker 🐳 | CI/CD 🔧 | Testing: Jest ✅
-
----
 
 ## 🚀 Projects
 
